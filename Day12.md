@@ -1,7 +1,6 @@
-## Today is Day 12 and today we will learn    about  DeFi
-## Today's topic ↧
-History of Defi https://blog.makerdao.com/a-brief-history-of-decentralized-finance-defi/
+## Day 12
+## Resources:
 
-2022 -Time to focus on DeFi https://morningconsult.com/2022/03/29/beyond-crypto-focus-on-defi-and-web3/
+What is a Dapp https://thedapplist.com/learn/what-is-dapp/
 
-Decentralized Finance Explained (Ethereum, MakerDAO, Compound, Uniswap, Kyber) https://www.youtube.com/watch?v=k9HYC0EJU6E
+Dapp Guide: https://www.youtube.com/watch?v=mN49ihz4cf0&t=2s
