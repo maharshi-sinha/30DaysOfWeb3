@@ -1,3 +1,5 @@
 Today was the day 16!
+  
 done with a self-test to check previous knowledge till day 15.
+  
 Today's resource: NIL
